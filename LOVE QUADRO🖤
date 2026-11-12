@@ -340,3 +340,9 @@ vless://7b91b2c3-8af3-449b-a555-00c9460989f4@TUNNELI WIFI🇦🇶:443?type=ws&se
 vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@edge-01294.greatecloud.com:443?type=tcp&security=tls&sni=es.greatecloud.com&alpn=h2%2Chttp%2F1.1&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%E2%9A%A1%EF%B8%8E%20LOVE%20QUADRO%F0%9F%96%A4
 
 vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@fl.greatecloud.com:443?type=tcp&security=tls&sni=fl.greatecloud.com&alpn=h2%2Chttp%2F1.1&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%E2%9A%A1%EF%B8%8E%20LOVE%20QUADRO%F0%9F%96%A4
+
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@178.214.104.6:443?type=tcp&security=reality&sni=google.com&fp=qq&pbk=hSTMOs_fdcVMho9rpzqiFdKIrKYJwJaBX-zMPO_6TQo&sid=e9c1b6d78a25f403&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%E2%9A%A1%EF%B8%8E%20LOVE%20QUADRO%F0%9F%96%A4
+
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@deb.greatecloud.com:443?type=tcp&security=tls&sni=deb.greatecloud.com&alpn=h2%2Chttp%2F1.1&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D1%82%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%E2%9A%A1%EF%B8%8E%20LOVE%20QUADRO%F0%9F%96%A4
+
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@ne.greatecloud.com:443?type=tcp&security=tls&sni=ne.greatecloud.com&alpn=h2&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%E2%9A%A1%EF%B8%8E%20LOVE%20QUADRO%F0%9F%96%A4
